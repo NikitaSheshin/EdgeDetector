@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Edge_Detector.Detectors.SobelDetector">
+    <Position X="3" Y="2" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAKAQAQAAAAIAAEAAAAAQEAIAAAAAAAAA=</HashCode>
+      <FileName>Detectors\SobelDetector.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.283" />
+  </Class>
+  <Class Name="Edge_Detector.Detectors.CannyDetector">
+    <Position X="7" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAQAaAQAQAEAAIAAEAAAAAQEAIAAAAAAAAA=</HashCode>
+      <FileName>Detectors\CannyDetector.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Edge_Detector.EdgeDetector">
+    <Position X="8.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AUACAACBACAgAAEIAACCAAACJECIAABAAGAiAAQAIAA=</HashCode>
+      <FileName>EdgeDetector.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Edge_Detector.Detectors.Detector">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Detectors\Detector.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
